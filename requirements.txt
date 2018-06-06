@@ -1,0 +1,4 @@
+playsound==1.2.2
+requests==2.18.4
+user_agent==0.1.9
+beautifulsoup4==4.6.0
