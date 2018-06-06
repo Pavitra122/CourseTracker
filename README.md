@@ -1,5 +1,5 @@
 # CourseTracker
-Track the status of any UIUC course to help get those classes in high demand. It keeps running in the bacground, refreshing the page every 5 minutes and plays a song when a seat in the class becomes available.
+Track the status of any UIUC course to help get those classes in high demand. It keeps running in the background, refreshing the page every 5 minutes and plays a song when a seat in the class becomes available.
 
 Installation
 ------------
