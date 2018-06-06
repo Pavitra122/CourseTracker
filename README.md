@@ -4,8 +4,10 @@ minutes and plays a song when a seat in the course is available.
 
 Installation
 ------------
-
-    pip install -r /path/to/requirements.txt
+    
+  Installing all the necessary modules
+  
+    pip install -r requirements.txt
 
 Usage
 -----
@@ -15,6 +17,4 @@ Usage
    Example
     
     python tracker.py ECE 120 64596
-    
-
     
