@@ -11,7 +11,7 @@ Installation
 Usage
 -----
 
-    python <Department> <Course Number> <CRN>
+    python tracker.py <Department> <Course Number> <CRN>
     
    Example
     
